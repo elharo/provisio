@@ -44,7 +44,7 @@
     <surefire.redirectTestOutputToFile>true</surefire.redirectTestOutputToFile>
     <surefire.runOrder>alphabetical</surefire.runOrder>
     <surefire.mem>-Xmx256m</surefire.mem>
-    <mavenVersion>3.3.3</mavenVersion>
+    <mavenVersion>3.8.1</mavenVersion>
     <takariArchiverVersion>0.1.26</takariArchiverVersion>
     <aetherVersion>1.0.2.v20150114</aetherVersion>
     <takari.licenseHeader>license-header.txt</takari.licenseHeader>
